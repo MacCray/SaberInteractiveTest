@@ -1,0 +1,15 @@
+C:\Users\krasi\Desktop\SaberTest\SaberTest\bin\Debug\net6.0\SaberTest.exe
+C:\Users\krasi\Desktop\SaberTest\SaberTest\bin\Debug\net6.0\SaberTest.deps.json
+C:\Users\krasi\Desktop\SaberTest\SaberTest\bin\Debug\net6.0\SaberTest.runtimeconfig.json
+C:\Users\krasi\Desktop\SaberTest\SaberTest\bin\Debug\net6.0\SaberTest.dll
+C:\Users\krasi\Desktop\SaberTest\SaberTest\bin\Debug\net6.0\SaberTest.pdb
+C:\Users\krasi\Desktop\SaberTest\SaberTest\obj\Debug\net6.0\SaberTest.csproj.AssemblyReference.cache
+C:\Users\krasi\Desktop\SaberTest\SaberTest\obj\Debug\net6.0\SaberTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krasi\Desktop\SaberTest\SaberTest\obj\Debug\net6.0\SaberTest.AssemblyInfoInputs.cache
+C:\Users\krasi\Desktop\SaberTest\SaberTest\obj\Debug\net6.0\SaberTest.AssemblyInfo.cs
+C:\Users\krasi\Desktop\SaberTest\SaberTest\obj\Debug\net6.0\SaberTest.csproj.CoreCompileInputs.cache
+C:\Users\krasi\Desktop\SaberTest\SaberTest\obj\Debug\net6.0\SaberTest.dll
+C:\Users\krasi\Desktop\SaberTest\SaberTest\obj\Debug\net6.0\refint\SaberTest.dll
+C:\Users\krasi\Desktop\SaberTest\SaberTest\obj\Debug\net6.0\SaberTest.pdb
+C:\Users\krasi\Desktop\SaberTest\SaberTest\obj\Debug\net6.0\SaberTest.genruntimeconfig.cache
+C:\Users\krasi\Desktop\SaberTest\SaberTest\obj\Debug\net6.0\ref\SaberTest.dll
